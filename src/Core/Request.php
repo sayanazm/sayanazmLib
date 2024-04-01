@@ -1,6 +1,6 @@
 <?php
 
-namespace vendor\Core;
+namespace vendor\src\Core;
 
 class Request
 {
