@@ -1,6 +1,8 @@
 <?php
 
-namespace Core;
+namespace vendor\Core;
+
+use Core\LoggerInterface;
 
 class App
 {
